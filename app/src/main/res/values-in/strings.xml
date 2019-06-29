@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="tab_movie">FILM</string>
+    <string name="tab_tv_show">ACARA TV</string>
+    <string name="image_logo">Logo</string>
+    <string name="change_language_settings">Pengaturan Bahasa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="movie_name">
+        <item>A Star</item>
+        <item>Aquaman</item>
+        <item>Avenger Infinity War</item>
+        <item>Birdbox</item>
+        <item>Bumblebee</item>
+        <item>Bohemian</item>
+        <item>Deadpool</item>
+    </string-array>
+    <string-array name="movie_description">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally.
+            She has just about given up on her dream to make it big as a singer — until Jack coaxes her into
+            the spotlight. But even…
+        </item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom
+            ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the
+            remaining oceanic people…
+        </item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one
+            hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic
+            infamy…
+        </item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and
+            her two children make a desperate bid to reach safety.
+        </item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach
+            town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers
+            Bumblebee, battle-scarred…
+        </item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John
+            Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit
+            songs become instant classics.…
+        </item>
+        <item>Deadpool tells the origin story of former Special Forces operative turned mercenary Wade " +
+            "Wilson, who after being subjected to a rogue experiment that leaves him with accelerated " +
+            "healing powers, adopts the alter…
+        </item>
+    </string-array>
+    <string-array name="movie_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_deadpool</item>
+    </string-array>
+    _
+
+    <string-array name="tv_show_name">
+        <item>The Flash</item>
+        <item>Game of Throne</item>
+        <item>Grey Anatomy</item>
+        <item>One Punch Man</item>
+        <item>Walking Dead</item>
+        <item>Wiseman</item>
+        <item>Arrow</item>
+    </string-array>
+    <string-array name="tv_show_description">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally.
+            She has just about given up on her dream to make it big as a singer — until Jack coaxes her into
+            the spotlight. But even…
+        </item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom
+            ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the
+            remaining oceanic people…
+        </item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one
+            hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic
+            infamy…
+        </item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and
+            her two children make a desperate bid to reach safety.
+        </item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach
+            town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers
+            Bumblebee, battle-scarred…
+        </item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John
+            Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit
+            songs become instant classics.…
+        </item>
+        <item>Deadpool tells the origin story of former Special Forces operative turned mercenary Wade " +
+            "Wilson, who after being subjected to a rogue experiment that leaves him with accelerated " +
+            "healing powers, adopts the alter…
+        </item>
+    </string-array>
+    <string-array name="tv_show_photo">
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_game_of_throne</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_one_punch_man</item>
+        <item>@drawable/poster_walking_dead</item>
+        <item>@drawable/poster_wise_man</item>
+        <item>@drawable/poster_arrow</item>
+    </string-array>
+    _
+
+</resources>
